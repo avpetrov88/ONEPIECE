@@ -1,0 +1,49 @@
+body {
+    font-family: Montserrat;
+}
+header{
+    background-color:black;
+    padding:10px;
+   }
+.mainlink {
+    border: 5px solid #58EE00;
+    border-radius: 20px;
+    padding:10px;
+    text-decoration: none;
+    color:#58EE00;
+}
+nav {
+    padding:20px;
+}
+nav a {
+    margin-top:50px;
+    margin-left:300px;
+    border: 5px solid #000000;
+border-radius: 20px;
+    padding:10px;
+     text-decoration: none;
+    color: black;
+}
+main img {
+    margin-left:331px;
+}
+main p {
+   border: 5px solid #0C5AA6;
+    margin:10px;
+}
+header img {
+    margin-left:490px;
+}
+h1 {
+text-align: center;
+}
+footer {
+    background-color:#0776A0;
+    padding:10px;
+    color: white;
+}
+footer p {
+    background-color:white;
+    color:black;
+    margin:10px;
+}
